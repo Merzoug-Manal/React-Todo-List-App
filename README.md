@@ -13,3 +13,19 @@ To get started with this app, follow these steps:
 
 1. **Clone the Repository**:
    git clone https://github.com/your-username/react-todo-crud-app.git
+2. **Navigate to the Project Directory**:
+     cd React-Todo-List-App
+3.**Install Dependencies**:
+     npm install
+4.**Start the Application**:
+   npm start
+The app will start running on http://localhost:3000. You can now access the to-do list application and manage your tasks.
+# Technologies Used
+
+- **React**
+- **JavaScript**
+- **CSS**
+
+**Feel free to customize and expand the app as needed!**
+
+
