@@ -19,13 +19,13 @@ To get started with this app, follow these steps:
      npm install
 4. **Start the Application**:
    npm start
-The app will start running on http://localhost:3000. You can now access the to-do list application and manage your tasks.
+(The app will start running on http://localhost:3000. You can now access the to-do list application and manage your tasks.)
 ### Technologies Used
 
 - **React**
 - **JavaScript**
 - **CSS**
 
-**Feel free to customize and expand the app as needed!**
+### Feel free to customize and expand the app as needed!
 
 
