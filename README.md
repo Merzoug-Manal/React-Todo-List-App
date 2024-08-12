@@ -12,7 +12,7 @@ A to-do list application built with React and JavaScript. This app includes full
 To get started with this app, follow these steps:
 
 1. **Clone the Repository**:
-   git clone https://github.com/your-username/react-todo-crud-app.git
+   git clone https://github.com/Merzoug-Manal/React-Todo-List-App.git
 2. **Navigate to the Project Directory**:
      cd React-Todo-List-App
 3.**Install Dependencies**:
