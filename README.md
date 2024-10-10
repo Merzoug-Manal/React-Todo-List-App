@@ -7,6 +7,13 @@ A to-do list application built with React and JavaScript. This app includes full
 - **Delete Tasks**: Remove tasks from your list.
 - **Mark as Complete**: Use checkboxes to mark tasks as done.
 
+ ### Technologies Used
+
+- **React**
+- **HTML**
+- **CSS**
+- **JavaScript**
+
 ### Getting Started
 
 To get started with this app, follow these steps:
@@ -20,11 +27,7 @@ To get started with this app, follow these steps:
 4. **Start the Application**:
    npm start
 (The app will start running on http://localhost:3000. You can now access the to-do list application and manage your tasks.)
-### Technologies Used
 
-- **React**
-- **JavaScript**
-- **CSS**
 
 ### Feel free to customize and expand the app as needed!
 
